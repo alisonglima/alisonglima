@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 Passionate about programming, mathematics, games and technology.
-I'm FullStack Developer :computer:
+<br/> I'm FullStack Developer :computer:
 
  :rocket:  &nbsp; Graduated in **Análise e Desenvolvimento de Sistemas** by Fatec de Taquaritinga
  <br/> :purple_heart: &nbsp; Passionate about the Node.js + ReactJS stack and the entire Javascript ecosystem
