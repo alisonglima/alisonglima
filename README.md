@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/alisonglima/alisonglima/blob/master/banner.png">
+<img width="auto" src="https://github.com/alisonglima/alisonglima/blob/master/banner.jpg">
 
 # Alison Gustavo
 
