@@ -1,16 +1,14 @@
-### Hi there 👋
+<img width="auto" src="https://github.com/alisonglima/alisonglima/blob/master/banner.png">
 
-<!--
-**alisonglima/alisonglima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Alison Gustavo
 
-Here are some ideas to get you started:
+## Hi there 👋
+Passionate about programming, mathematics, games and technology.
+I'm FullStack Developer :computer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ :rocket:  &nbsp; Graduated in **Análise e Desenvolvimento de Sistemas** by Fatec de Taquaritinga
+ <br/> :purple_heart: &nbsp; Passionate about the Node.js + ReactJS stack and the entire Javascript ecosystem
+ <br/> :computer: &nbsp; My stack: ReactJS, Node.js and React Native
+ <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-AlisonGustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alison-gustavo-lima-71919b84)](https://www.linkedin.com/in/alison-gustavo-lima-71919b84) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-alisonlima2@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alisinhogustavo.lima@gmail.com)](mailto:alisinhogustavo.lima@gmail.com)
