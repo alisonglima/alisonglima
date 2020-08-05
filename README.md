@@ -6,7 +6,7 @@
 Passionate about programming, mathematics, games and technology.
 <br/> I'm FullStack Developer :computer:
 
- :rocket:  &nbsp; Graduated in **Análise e Desenvolvimento de Sistemas** by [Fatec de Taquaritinga](http://www.fatectq.edu.br/analise-e-desenvolvimento-de-sistemas)
+ :rocket:  &nbsp; Graduated in **Análise e Desenvolvimento de Sistemas** by [FatecTQ](http://www.fatectq.edu.br/analise-e-desenvolvimento-de-sistemas)
  <br/> :purple_heart: &nbsp; Passionate about the Node.js + ReactJS stack and the entire Javascript ecosystem
  <br/> :computer: &nbsp; My stack: ReactJS, Node.js and React Native
  <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-AlisonGustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alison-gustavo-lima-71919b84)](https://www.linkedin.com/in/alison-gustavo-lima-71919b84) 
