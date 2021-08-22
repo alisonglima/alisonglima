@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 Passionate about programming, mathematics, games and technology.
-<br/> I'm Back-end and Front-end Developer :rocket:
+<br/> I'm Backend, Frontend and Mobile developer :rocket:
 
  🎓 &nbsp; Graduated in **Análise e Desenvolvimento de Sistemas** by [FatecTQ](http://www.fatectq.edu.br/analise-e-desenvolvimento-de-sistemas)
  <br/> :purple_heart: &nbsp; Passionate about the Node.js & ReactJS stack and the entire Javascript ecosystem
