@@ -1,10 +1,12 @@
-<img width="auto" src="https://github.com/alisonglima/alisonglima/blob/master/banner.jpg">
+## Hi there, my name is Alison Lima 👋
+### I'm 23 years old, passionate about programming, mathematics, games and technology.
 
-# Alison Gustavo
+ 🎓 &nbsp; Graduated in Análise e Desenvolvimento de Sistemas by [FatecTQ](http://www.fatectq.edu.br/analise-e-desenvolvimento-de-sistemas)
 
-## Hi there 👋
-Passionate about programming, mathematics, games and technology.
-<br/> I'm Backend, Frontend and Mobile developer :rocket:
+### Junior Engineer at [Méliuz](https://github.com/meliuz)
+<br/> 
+
+I'm Junior mobile developer at  :rocket:
 
  🎓 &nbsp; Graduated in **Análise e Desenvolvimento de Sistemas** by [FatecTQ](http://www.fatectq.edu.br/analise-e-desenvolvimento-de-sistemas)
  <br/> :purple_heart: &nbsp; Passionate about the Node.js & ReactJS stack and the entire Javascript ecosystem
