@@ -1,7 +1,7 @@
 ## Hi there, my name is Alison Lima 👋
 ### I'm 23 years old, passionate about programming, mathematics, games and technology.
 
-### 🎓 &nbsp; Graduated in Análise e Desenvolvimento de Sistemas by [FatecTQ](http://www.fatectq.edu.br/analise-e-desenvolvimento-de-sistemas)
+Degree in Systems Analysis and Development at [FATEC Taquaritinga](http://www.fatectq.edu.br/analise-e-desenvolvimento-de-sistemas)
 
 ### Junior Engineer at [Méliuz](https://github.com/meliuz)
 
