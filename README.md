@@ -2,7 +2,7 @@
 
 #### I'm 23 years old, passionate about programming, mathematics, games and technology.
 
-#### Degree in Systems Analysis and Development at [FATEC/TQ](http://www.fatectq.edu.br/analise-e-desenvolvimento-de-sistemas)
+#### Degree in Analysis and Systems Development at [FATEC/TQ](http://www.fatectq.edu.br/analise-e-desenvolvimento-de-sistemas)
 
 #### Junior Engineer at [Méliuz](https://github.com/meliuz)
 
