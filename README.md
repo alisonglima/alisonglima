@@ -22,30 +22,36 @@
   <img align="center" alt="Alison-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alison-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Alison-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Alison-Darth" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="center" alt="Alison-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
- <img align="center" alt="Alison-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
- <br> 
+  <!-- <img align="center" alt="Alison-Darth" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"> -->
+  <!-- <img align="center" alt="Alison-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> -->
+  <!-- <img align="center" alt="Alison-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"> -->
+ <!-- <img align="center" alt="Alison-Elixir" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg"> -->
+ <!-- <img align="center" alt="Alison-Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"> -->
+ <!-- <img align="center" alt="Alison-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
+ <!-- <img align="center" alt="Alison-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"> -->
+ 
+<br> 
  
 </div>
  
  <hr/>
  
-  # May the force be with you!
- <div>
-   <img align="center" justify="center" alt="Madalorian-yoda" src="https://i.pinimg.com/originals/b3/e9/1f/b3e91ff096b62c849d3491b1f5fef6d5.gif">
- </div>
+   # When you feel life is out of focus, always return to the basic of life. Breathing. No breath, no life.” Mr Miyagi
+  <div>
+    <img align="center" justify="center" alt="Karate-kid" src="http://4.bp.blogspot.com/-POPiFkzj4PY/U_s4tblyqSI/AAAAAAAALGQ/uvum9wR8bk8/s1600/Karate%2BKid%2B1.gif">
+  </div>
  
  <hr/>
-
  
-<div> 
+ <div> 
   <a href="https://instagram.com/alisonglima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:alisonlima2@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alisonglima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/alisonglima/alisonglima/blob/master/github-contribution-grid-snake.svg)
- 
+  <a href="https://twitter.com/alisonglima" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href = "mailto:alisinhogustavo.lima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:alisonlima2@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alisonglima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+![Snake animation](https://github.com/alisonglima/alisonglima/blob/master/github-contribution-grid-snake.svg)
+
 </div>
  
  </center>
