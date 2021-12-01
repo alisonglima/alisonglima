@@ -1,16 +1,49 @@
 ## Hi there, my name is Alison Lima 👋
 ### I'm 23 years old, passionate about programming, mathematics, games and technology.
 
- 🎓 &nbsp; Graduated in Análise e Desenvolvimento de Sistemas by [FatecTQ](http://www.fatectq.edu.br/analise-e-desenvolvimento-de-sistemas)
+### 🎓 &nbsp; Graduated in Análise e Desenvolvimento de Sistemas by [FatecTQ](http://www.fatectq.edu.br/analise-e-desenvolvimento-de-sistemas)
 
 ### Junior Engineer at [Méliuz](https://github.com/meliuz)
-<br/> 
 
-I'm Junior mobile developer at  :rocket:
+<hr/>
 
- 🎓 &nbsp; Graduated in **Análise e Desenvolvimento de Sistemas** by [FatecTQ](http://www.fatectq.edu.br/analise-e-desenvolvimento-de-sistemas)
- <br/> :purple_heart: &nbsp; Passionate about the Node.js & ReactJS stack and the entire Javascript ecosystem
- <br/> :computer: &nbsp; My stack: ReactJS, Node.js and React Native
- <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-AlisonGustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alison-gustavo-lima-71919b84)](https://www.linkedin.com/in/alison-gustavo-lima-71919b84) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-alisonlima2@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alisinhogustavo.lima@gmail.com)](mailto:alisinhogustavo.lima@gmail.com)
+<center>
+
+ <div>
+  <a href="https://github.com/alisonglima">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alisonglima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonglima&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Douglas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Douglas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Douglas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Douglas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Douglas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Douglas-Darth" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+<img align="center" alt="Douglas-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+ <img align="center" alt="Douglas-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
+ <br> 
+ 
+</div>
+ 
+ <hr/>
+ 
+  # May the force be with you!
+ <div>
+   <img align="center" justify="center" alt="Madalorian-yoda" src="https://i.pinimg.com/originals/b3/e9/1f/b3e91ff096b62c849d3491b1f5fef6d5.gif">
+ </div>
+ 
+ <hr/>
+
+ 
+<div> 
+  <a href="https://instagram.com/douglasmorais" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mr.douglasmorais23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/douglasmoraisdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/alisonglima/alisonglima/blob/main/github-contribution-grid-snake.svg)
+ 
+</div>
+ 
+ </center>
