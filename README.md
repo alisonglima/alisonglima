@@ -36,7 +36,7 @@
  
  <hr/>
  
-   ## When you feel life is out of focus, always return to the basic of life. Breathing. No breath, no life.” Mr Miyagi
+   ## "When you feel life is out of focus, always return to the basic of life. Breathing. No breath, no life.” Mr Miyagi
   <div>
     <img align="center" justify="center" alt="Karate-kid" src="http://4.bp.blogspot.com/-POPiFkzj4PY/U_s4tblyqSI/AAAAAAAALGQ/uvum9wR8bk8/s1600/Karate%2BKid%2B1.gif">
   </div>
