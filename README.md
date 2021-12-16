@@ -1,4 +1,4 @@
-## Hi there, my name is Alison Lima 👋
+## Hi there, I'm Alison Lima <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
 #### I'm 23 years old, passionate about programming, mathematics, games and technology.
 
