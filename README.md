@@ -1,4 +1,8 @@
-## Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Alison Lima.
+<div>
+    <img align="center" justify="center" alt="background" src="https://gist.github.com/alisonglima/9f38cc45d4716b14aa7d762014ee906e/raw/4ab3c7eef179ec1423ed9c561ff2907fc68795ed/background.gif">
+</div>
+
+<!-- ## Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Alison Lima. -->
 
 #### I'm 23 years old, passionate about programming, mathematics, games and technology.
 
