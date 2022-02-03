@@ -40,7 +40,7 @@
  
    ## "When you feel life is out of focus, always return to the basic of life. Breathing. No breath, no life." - Mr Miyagi
   <div>
-    <img align="center" justify="center" alt="Karate-kid" src="http://4.bp.blogspot.com/-POPiFkzj4PY/U_s4tblyqSI/AAAAAAAALGQ/uvum9wR8bk8/s1600/Karate%2BKid%2B1.gif">
+    <img align="center" justify="center" alt="karate-kid" src="https://gist.github.com/alisonglima/9f38cc45d4716b14aa7d762014ee906e/raw/6e96dbbb9d2b6e237f198c2772e4c1be3f731c7a/karate-kid.gif">
   </div>
  
  <hr/>
@@ -52,7 +52,9 @@
   <a href = "mailto:alisonlima2@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alisonglima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-![Snake animation](https://github.com/alisonglima/alisonglima/blob/master/github-contribution-grid-snake.svg)
+<div>
+    <img align="center" justify="center" alt="snake-animation" src="https://raw.githubusercontent.com/gist/alisonglima/9f38cc45d4716b14aa7d762014ee906e/raw/6e96dbbb9d2b6e237f198c2772e4c1be3f731c7a/github-contribution-grid-snake.svg">
+</div>     
 
 </div>
  
