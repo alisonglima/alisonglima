@@ -11,70 +11,71 @@
 
 <hr />
 
-  <div>
-    <a href="https://github.com/alisonglima">
-      <div>
-        <img
-          height="180em"
-          width="49%"
-          src="https://github-readme-stats.vercel.app/api?username=alisonglima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
-        />
-        <img
-          height="180em"
-          width="49%"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonglima&layout=compact&langs_count=7&theme=dark"
-        />
-      </div>
-      <div style="display: inline_block">
-        <br />
-        <img
-          alt="alisonglima js"
-          height="30"
-          width="40"
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
-        />
-        <img
-          alt="alisonglima ts"
-          height="30"
-          width="40"
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
-        />
-        <img
-          alt="alisonglima html"
-          height="30"
-          width="40"
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-        />
-        <img
-          alt="alisonglima css"
-          height="30"
-          width="40"
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-        />
-        <img
-          alt="alisonglima node.js"
-          height="30"
-          width="40"
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
-        />
-        <img
-          alt="alisonglima react"
-          height="30"
-          width="40"
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-        />
-        <!-- <img align="center" alt="alisonglima dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"> -->
-        <!-- <img align="center" alt="alisonglima flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> -->
-        <!-- <img align="center" alt="alisonglima swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"> -->
-        <!-- <img align="center" alt="alisonglima elixir" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg"> -->
-        <!-- <img align="center" alt="alisonglima rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"> -->
-        <!-- <img align="center" alt="alisonglima python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
-        <!-- <img align="center" alt="alisonglima go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"> -->
-      </div>
-    </a>
-  </div>
+<div>
+  <a href="https://github.com/alisonglima">
+    <div>
+      <img
+        height="180em"
+        width="450px"
+        src="https://github-readme-stats.vercel.app/api?username=alisonglima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+      />
+      &nbsp;
+      <img
+        height="180em"
+        width="450px"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonglima&layout=compact&langs_count=7&theme=dark"
+      />
+    </div>
+    <div style="display: inline_block">
+      <br />
+      <img
+        alt="alisonglima js"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+      />
+      <img
+        alt="alisonglima ts"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
+      />
+      <img
+        alt="alisonglima html"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+      />
+      <img
+        alt="alisonglima css"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+      />
+      <img
+        alt="alisonglima node.js"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+      />
+      <img
+        alt="alisonglima react"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+      />
+      <!-- <img align="center" alt="alisonglima dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"> -->
+      <!-- <img align="center" alt="alisonglima flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> -->
+      <!-- <img align="center" alt="alisonglima swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"> -->
+      <!-- <img align="center" alt="alisonglima elixir" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg"> -->
+      <!-- <img align="center" alt="alisonglima rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"> -->
+      <!-- <img align="center" alt="alisonglima python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
+      <!-- <img align="center" alt="alisonglima go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"> -->
+    </div>
+  </a>
+</div>
 
-  <hr />
+<hr />
 
 ### "When you feel life is out of focus, always return to the basic of life. Breathing. No breath, no life." - Mr Miyagi
 
