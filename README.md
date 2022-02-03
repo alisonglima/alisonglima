@@ -6,6 +6,7 @@
 </div>
 
 #### I'm 23 years old, passionate about programming, mathematics, games and technology. #### Degree in Analysis and
+
 Systems Development at [FATEC/TQ](http://www.fatectq.edu.br/analise-e-desenvolvimento-de-sistemas)
 
 <hr />
@@ -17,7 +18,6 @@ Systems Development at [FATEC/TQ](http://www.fatectq.edu.br/analise-e-desenvolvi
         height="180em"
         src="https://github-readme-stats.vercel.app/api?username=alisonglima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
       />
-
       <img
         height="180em"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonglima&layout=compact&langs_count=7&theme=dark"
@@ -68,24 +68,17 @@ Systems Development at [FATEC/TQ](http://www.fatectq.edu.br/analise-e-desenvolvi
       <!-- <img align="center" alt="alisonglima rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"> -->
       <!-- <img align="center" alt="alisonglima python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
       <!-- <img align="center" alt="alisonglima go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"> -->
-
       <br />
     </div>
-
     <hr />
-
-    ## "When you feel life is out of focus, always return to the basic of life. Breathing. No breath, no life." - Mr
-    Miyagi
-
+    ## "When you feel life is out of focus, always return to the basic of life. Breathing. No breath, no life." - Mr Miyagi
     <div>
       <img
         alt="karate kid"
         src="https://gist.github.com/alisonglima/9f38cc45d4716b14aa7d762014ee906e/raw/6e96dbbb9d2b6e237f198c2772e4c1be3f731c7a/karate-kid.gif"
       />
     </div>
-
     <hr />
-
     <div>
       <a href="https://instagram.com/alisonglima" target="_blank"
         ><img
@@ -112,15 +105,14 @@ Systems Development at [FATEC/TQ](http://www.fatectq.edu.br/analise-e-desenvolvi
           src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
           target="_blank"
       /></a>
-
       <img
         alt="snake animation"
         src="https://raw.githubusercontent.com/gist/alisonglima/9f38cc45d4716b14aa7d762014ee906e/raw/6e96dbbb9d2b6e237f198c2772e4c1be3f731c7a/github-contribution-grid-snake.svg"
       />
-
       <p>
         <img src="https://komarev.com/ghpvc/?username=alisonglima&color=blue" alt="profile views" />
       </p>
     </div>
+
   </a>
 </div>
