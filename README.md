@@ -16,13 +16,13 @@
     <div>
       <img
         height="180em"
-        width="450px"
+        width="414px"
         src="https://github-readme-stats.vercel.app/api?username=alisonglima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
       />
       &nbsp;
       <img
         height="180em"
-        width="450px"
+        width="414px"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonglima&layout=compact&langs_count=7&theme=dark"
       />
     </div>
