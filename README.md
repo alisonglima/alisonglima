@@ -8,6 +8,10 @@
 
 #### Degree in Analysis and Systems Development at [FATEC/TQ](http://www.fatectq.edu.br/analise-e-desenvolvimento-de-sistemas)
 
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=alisonglima&color=blue" alt="profile-views" /> 
+</p>
+
 <hr/>
 
 <center>
