@@ -74,7 +74,7 @@
 
 <hr />
 
-## "When you feel life is out of focus, always return to the basic of life. Breathing. No breath, no life." - Mr Miyagi
+### "When you feel life is out of focus, always return to the basic of life. Breathing. No breath, no life." - Mr Miyagi
 
 <div>
   <img
