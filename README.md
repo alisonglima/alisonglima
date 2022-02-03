@@ -1,5 +1,5 @@
 <div>
-    <img align="center" justify="center" alt="background" src="https://gist.github.com/alisonglima/9f38cc45d4716b14aa7d762014ee906e/raw/cb409537bc8c366a2d00d41c5a314b110acf493f/background.gif">
+    <img align="center" justify="center" alt="background" src="https://gist.github.com/alisonglima/9f38cc45d4716b14aa7d762014ee906e/raw/779748d922a96ccebd678eae0dc08dded98cea0e/background.gif">
 </div>
 
 <!-- ## Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Alison Lima. -->
