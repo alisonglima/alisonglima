@@ -35,7 +35,7 @@
   /></a>
 </div>
 
-<br />
+&nbsp;
 
 Hey 👋🏻 call me Alison. Node.js, ReactJS and React Native dev.
 
@@ -109,9 +109,10 @@ I'm a SWE specialized in delivering high quality Web and Mobile solutions (I'm a
 
 <hr />
 
-#### "When you feel life is out of focus, always return to the basic of life. Breathing. No breath, no life." - Mr Miyagi
-
 <div align="center">
+  
+  #### "When you feel life is out of focus, always return to the basic of life. Breathing. No breath, no life." - Mr Miyagi
+  
   <img
     alt="karate kid"
     src="https://gist.github.com/alisonglima/9f38cc45d4716b14aa7d762014ee906e/raw/6e96dbbb9d2b6e237f198c2772e4c1be3f731c7a/karate-kid.gif"
@@ -126,6 +127,9 @@ I'm a SWE specialized in delivering high quality Web and Mobile solutions (I'm a
     src="https://raw.githubusercontent.com/gist/alisonglima/9f38cc45d4716b14aa7d762014ee906e/raw/6e96dbbb9d2b6e237f198c2772e4c1be3f731c7a/github-contribution-grid-snake.svg"
   />
 </div>
+
+&nbsp;
+
 <p>
   <img src="https://komarev.com/ghpvc/?username=alisonglima&color=blue" alt="profile views" />
 </p>
