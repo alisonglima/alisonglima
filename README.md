@@ -5,9 +5,8 @@
   />
 </div>
 
-#### I'm 23 years old, passionate about programming, mathematics, games and technology.
-
-#### Degree in Analysis and Systems Development at [FATEC/TQ](http://www.fatectq.edu.br/analise-e-desenvolvimento-de-sistemas).
+I'm a SWE specialized in delivering high quality Web and Mobile solutions (I'm a Full-Stack Engineer).
+My engineering background includes, but is not limited to, React SPAs, SSRs, React Native and Node.js monoliths (REST, GraphQL, and gRPC).
 
 <hr />
 
