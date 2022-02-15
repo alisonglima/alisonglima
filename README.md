@@ -111,14 +111,12 @@ I'm a SWE specialized in delivering high quality Web and Mobile solutions (I'm a
 
 #### "When you feel life is out of focus, always return to the basic of life. Breathing. No breath, no life." - Mr Miyagi
 
-<center>
-  <div>
-    <img
-      alt="karate kid"
-      src="https://gist.github.com/alisonglima/9f38cc45d4716b14aa7d762014ee906e/raw/6e96dbbb9d2b6e237f198c2772e4c1be3f731c7a/karate-kid.gif"
-    />
-  </div>
-</ center>
+<div style="position: center">
+  <img
+    alt="karate kid"
+    src="https://gist.github.com/alisonglima/9f38cc45d4716b14aa7d762014ee906e/raw/6e96dbbb9d2b6e237f198c2772e4c1be3f731c7a/karate-kid.gif"
+  />
+</div>
 
 <hr />
 
