@@ -38,6 +38,7 @@
 <br />
 
 Hey 👋🏻 call me Alison. Node.js, ReactJS and React Native dev.
+
 I'm a SWE specialized in delivering high quality Web and Mobile solutions (I'm a Full-Stack Engineer). My engineering background includes, but is not limited to, React SPAs, SSRs, React Native and Node.js monoliths (REST, GraphQL, and gRPC).
 
 <hr />
