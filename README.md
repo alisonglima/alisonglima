@@ -45,7 +45,7 @@ I'm a SWE specialized in delivering high quality Web and Mobile solutions (I'm a
 
 <div>
   <a href="https://github.com/alisonglima">
-    <div>
+    <div align="center">
       <img
         height="180em"
         width="414px"
