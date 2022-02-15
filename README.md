@@ -120,12 +120,12 @@ I'm a SWE specialized in delivering high quality Web and Mobile solutions (I'm a
 
 <hr />
 
-<div>
+<div align="center">
    <img align="center"
     alt="snake animation"
     src="https://raw.githubusercontent.com/gist/alisonglima/9f38cc45d4716b14aa7d762014ee906e/raw/6e96dbbb9d2b6e237f198c2772e4c1be3f731c7a/github-contribution-grid-snake.svg"
   />
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=alisonglima&color=blue" alt="profile views" />
-  </p>
 </div>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=alisonglima&color=blue" alt="profile views" />
+</p>
