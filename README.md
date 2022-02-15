@@ -5,6 +5,38 @@
   />
 </div>
 
+<div>
+  <a href="https://instagram.com/alisonglima" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      target="_blank"
+  /></a>
+  <a href="https://twitter.com/alisonglima" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+      target="_blank"
+  /></a>
+  <a href="mailto:alisinhogustavo.lima@gmail.com"
+    ><img
+      src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
+      target="_blank"
+  /></a>
+  <a href="mailto:alisonlima2@hotmail.com"
+    ><img
+      src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
+      target="_blank"
+  /></a>
+  <a href="https://www.linkedin.com/in/alisonglima" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      target="_blank"
+  /></a>
+  <img
+    alt="snake animation"
+    src="https://raw.githubusercontent.com/gist/alisonglima/9f38cc45d4716b14aa7d762014ee906e/raw/6e96dbbb9d2b6e237f198c2772e4c1be3f731c7a/github-contribution-grid-snake.svg"
+  />
+</div>
+
 I'm a SWE specialized in delivering high quality Web and Mobile solutions (I'm a Full-Stack Engineer).
 My engineering background includes, but is not limited to, React SPAs, SSRs, React Native and Node.js monoliths (REST, GraphQL, and gRPC).
 
@@ -78,46 +110,13 @@ My engineering background includes, but is not limited to, React SPAs, SSRs, Rea
 
 ### "When you feel life is out of focus, always return to the basic of life. Breathing. No breath, no life." - Mr Miyagi
 
-  <div>
-    <img
-      alt="karate kid"
-      src="https://gist.github.com/alisonglima/9f38cc45d4716b14aa7d762014ee906e/raw/6e96dbbb9d2b6e237f198c2772e4c1be3f731c7a/karate-kid.gif"
-    />
-  </div>
-
-  <hr />
-
 <div>
-  <a href="https://instagram.com/alisonglima" target="_blank"
-    ><img
-      src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      target="_blank"
-  /></a>
-  <a href="https://twitter.com/alisonglima" target="_blank"
-    ><img
-      src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-      target="_blank"
-  /></a>
-  <a href="mailto:alisinhogustavo.lima@gmail.com"
-    ><img
-      src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
-      target="_blank"
-  /></a>
-  <a href="mailto:alisonlima2@hotmail.com"
-    ><img
-      src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
-      target="_blank"
-  /></a>
-  <a href="https://www.linkedin.com/in/alisonglima" target="_blank"
-    ><img
-      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      target="_blank"
-  /></a>
   <img
-    alt="snake animation"
-    src="https://raw.githubusercontent.com/gist/alisonglima/9f38cc45d4716b14aa7d762014ee906e/raw/6e96dbbb9d2b6e237f198c2772e4c1be3f731c7a/github-contribution-grid-snake.svg"
+    alt="karate kid"
+    src="https://gist.github.com/alisonglima/9f38cc45d4716b14aa7d762014ee906e/raw/6e96dbbb9d2b6e237f198c2772e4c1be3f731c7a/karate-kid.gif"
   />
 </div>
+
 
 <hr />
 
