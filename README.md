@@ -35,7 +35,9 @@
   /></a>
 </div>
 
-#### I'm a SWE specialized in delivering high quality Web and Mobile solutions (I'm a Full-Stack Engineer). My engineering background includes, but is not limited to, React SPAs, SSRs, React Native and Node.js monoliths (REST, GraphQL, and gRPC).
+<br />
+
+I'm a SWE specialized in delivering high quality Web and Mobile solutions (I'm a Full-Stack Engineer). My engineering background includes, but is not limited to, React SPAs, SSRs, React Native and Node.js monoliths (REST, GraphQL, and gRPC).
 
 <hr />
 
