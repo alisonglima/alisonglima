@@ -20,7 +20,7 @@
   /></a>
    <a href="mailto:alisonglima.dev@gmail.com"
     ><img
-      src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/-Gmail-D93942?style=for-the-badge&logo=gmail&logoColor=white"
       target="_blank"
   /></a>
 <!--   <a href="mailto:alisinhogustavo.lima@gmail.com"
