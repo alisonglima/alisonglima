@@ -101,9 +101,14 @@ I'm a SWE specialized in delivering high quality Web and Mobile solutions (I'm a
         width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
       />
+      <img
+        alt="alisonglima swift"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"
+      />
       <!-- <img align="center" alt="alisonglima dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"> -->
       <!-- <img align="center" alt="alisonglima flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> -->
-      <!-- <img align="center" alt="alisonglima swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"> -->
       <!-- <img align="center" alt="alisonglima elixir" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg"> -->
       <!-- <img align="center" alt="alisonglima rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"> -->
       <!-- <img align="center" alt="alisonglima python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
